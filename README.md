@@ -2,8 +2,9 @@
 - 👀 I’m interested in learning new tehnologies 
 - 🌱 I’m currently learning  : AWS , Go , Reactjs ,Postgresql , Docker .
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: 
-- 😄 Pronouns:
+## 📫 How to reach me:
+- **Email**: saumyakr9430@gmail.com
+- **Linkedin**: www.linkedin.com/in/saumya-kumar-434717214
 - ⚡ Fun fact:
 
 <!---
