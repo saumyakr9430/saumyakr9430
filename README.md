@@ -20,7 +20,8 @@ I’m **Saumya Kumar**, a 3rd-year **Electronics and Communication Engineering**
 ---
 
 ## 🌐 Connect with Me!
-- 📧 **Email**: [saumyakr9430@gmail.com](mailto:saumyakr9430@gmail.com)  
+- 📧 **Email**: [saumyakr9430@gmail.com](mailto:saumyakr9430@gmail.com), [saumyakumar9470@gmail.com](mailto:saumyakumar9470@gmail.com)
+
 - 💼 **LinkedIn**: [linkedin.com/in/saumya-kumar](https://www.linkedin.com/in/saumya-kumar-434717214/)  
 - 💻 **GitHub**: [github.com/saumyakr9430](https://github.com/saumyakr9430)  
 
